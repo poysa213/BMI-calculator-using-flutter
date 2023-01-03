@@ -1,4 +1,4 @@
-# ibm_calculater
+# BMI_calculater
 
 A new Flutter project.
 
